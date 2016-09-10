@@ -12,6 +12,6 @@
 
 接下来把 `jiang-wikiquote.min.js` 下载下来放到你的网站目录里，然后用以下方法引用它：
 
-	<script src="jiang-wikiquote.js" async></script>
+	<script src="jiang-wikiquote.min.js" async></script>
 
 大功告成！
